@@ -1,4 +1,4 @@
-# Assignment 12 – Selenium Web Automation & Data Extraction
+# Selenium Web Automation & Data Extraction
 
 ## 📌 Project Overview
 
